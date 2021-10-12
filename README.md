@@ -27,3 +27,7 @@ https://support.google.com/mail/answer/7126229?p=BadCredentials&visit_id=6376962
   
 - Как защитить учетные данные с помощью переменных среды в Python
 https://nuancesprog.ru/p/13937/
+
+### <p align="center"> What is next?</p>
+- add the ability to send messages to multiple addresses
+- add the ability to send files
