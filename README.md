@@ -6,7 +6,7 @@ How to send an email usng python and html template
 библиотек smtplib и mail.
 Добавляем в письмо HTML шаблон для рассылки.
 
-#### Tutorial
+### Tutorial
 - https://youtu.be/VniC5LAOYjY
 
 ### Free html templates
